@@ -1,7 +1,7 @@
 import { wedding } from "./config/wedding.js";
 import { theme } from "./config/theme.js";
 
-
+ 
 // =============================
 // APPLY SELECTED EDITION THEME
 // =============================
