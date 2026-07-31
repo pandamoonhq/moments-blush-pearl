@@ -1,3 +1,3 @@
-import { SageLinen } from "../themes/sage-linen.js";
+import { SageLinen } from "../themes/blush-pearl.js";
 
-export const theme = SageLinen;
+export const theme = BlushPearl;
