@@ -24,10 +24,20 @@ export const BlushPearl = {
 
         border:"#E2D7D2"
 
+
     },
 
-    fonts:{
-        ...
+    fonts: {
+
+        body:
+        "'Montserrat', sans-serif",
+
+        heading:
+        "'Cormorant Garamond', serif",
+
+        script:
+        "'Parisienne', cursive"
+
     }
 
 }
